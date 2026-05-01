@@ -119,13 +119,6 @@ Creates an optimized `build/` folder you can host anywhere.
 
 ---
 
-## 👨‍💻 Author
-
-**Your Name**  
-[GitHub](https://github.com/yourusername) • [LinkedIn](https://linkedin.com/in/yourusername)
-
----
-
 ## 📄 License
 
 MIT License — free to use and modify.
